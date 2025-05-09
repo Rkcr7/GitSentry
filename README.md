@@ -86,6 +86,12 @@ GitSentry helps security professionals and developers identify exposed API keys,
 
 2. Open the provided URL in your browser (typically http://localhost:8501)
 
+### Application Interface
+
+![GitSentry Application Interface](image.png)
+
+*Screenshot of GitSentry interface showing token search functionality and results*
+
 ### Step-by-Step Workflow
 
 1. **Select a Token Pattern**:
