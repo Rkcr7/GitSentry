@@ -10,14 +10,14 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name="gitsentry",
+    name="GitSentry",
     version="0.1.0",
     description="A security tool that detects exposed tokens and secrets in GitHub repositories",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="GitSentry Contributors",
-    author_email="CHANGE_THIS_TO_YOUR_EMAIL@example.com",  # TODO: Replace with your actual email
-    url="https://github.com/GITHUB_USERNAME/gitsentry",  # TODO: Replace with your actual GitHub username
+    author_email="ritikrkcr7@gmail.com",
+    url="https://github.com/Rkcr7/GitSentry",
     packages=find_packages(),
     include_package_data=True,
     install_requires=requirements,

@@ -47,8 +47,8 @@ GitSentry helps security professionals and developers identify exposed API keys,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GITHUB_USERNAME/gitsentry.git
-   cd gitsentry
+   git clone https://github.com/Rkcr7/GitSentry.git
+   cd GitSentry
    ```
 
 2. Install dependencies:
